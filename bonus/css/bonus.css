@@ -1,21 +1,29 @@
 /* general */
 body {
-    background-color: #5080ff;
+    background-color: #000;
+    color: #fff;
+    font-family:  sans-serif;
+    text-transform: uppercase;
 }
 
 /* Utility */
 .box{
-    background-color: yellow;
-    height: 100px ;
+    background-color: #fff;
+    height: 50px ;
     border: 1px solid black;
 }
 
-.mrg-t {
-    margin-top: 100px;
+.box img {
+    object-fit: contain;
+    width: 100%;
 }
 
-.box img {
-    object-fit: cover;
-    width: 100%;
-    color: #5080ff;
+
+.mrg-box{
+    margin: 5px;
 }
+
+.margin-t {
+    margin-top: 50px;
+}
+
