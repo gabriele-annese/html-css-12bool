@@ -92,7 +92,7 @@
     margin-left: calc((100% / 12) * 2);
 }
 
-.offset-5 {
+.offset-3 {
     margin-left: calc((100% / 12) * 3);
 }
 
@@ -130,4 +130,55 @@
 
 .offset-12 {
     margin-left: 100%;
+}
+
+
+/* Margin-t */
+
+.offset-1-t {
+    margin-top: calc((100% / 12) * 1);
+}
+
+.offset-2-t -t{
+    margin-top: calc((100% / 12) * 2);
+}
+
+.offset-3-t {
+    margin-top: calc((100% / 12) * 3);
+}
+
+.offset-4-t {
+    margin-top: calc((100% / 12) * 4);
+}
+
+.offset-5-t {
+    margin-top: calc((100% / 12) * 5);
+}
+
+.offset-6-t {
+    margin-top: calc((100% / 12) * 6);
+}
+
+.offset-7-t {
+    margin-top: calc((100% / 12) * 7);
+}
+
+.offset-8-t {
+    margin-top: calc((100% / 12) * 8);
+}
+
+.offset-9-t {
+    margin-top: calc((100% / 12) * 9);
+}
+
+.offset-10-t {
+    margin-top: calc((100% / 12) * 10);
+}
+
+.offset-11-t {
+    margin-top: calc((100% / 12) * 11);
+}
+
+.offset-12-t {
+    margin-top: 100%;
 }

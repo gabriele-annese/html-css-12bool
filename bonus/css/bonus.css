@@ -1,0 +1,25 @@
+/* general */
+body {
+    background-image: url(https://img.pngio.com/mario-background-png-png-image-mario-backgrounds-png-600_385.png);
+    background-size: contain;
+    height: 100vh;
+    position: relative;
+}
+
+/* Utility */
+.box{
+    background-color: yellow;
+    height: 100px ;
+}
+
+.box-1 {
+    background-color: green;
+    height: 100px ;
+}
+
+.align {
+    position: absolute;
+    left: 0;
+    bottom: 160px;
+}
+
