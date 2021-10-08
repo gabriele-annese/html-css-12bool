@@ -1,9 +1,6 @@
 /* general */
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+body {
     font-family: sans-serif;
 }
 
@@ -14,8 +11,22 @@ h1,h2,h3 {
 
 /* Utility */
 .box {
-    background: lightblue;
+    background: #006cfa;
     border: 1px solid white;
-    padding: 10px 0;
+    padding: 15px 5px;
+    text-align: center;
+    color: #fff;
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.box-2{
+    background: #52d6b5;
+    border: 1px solid white;
+    padding: 10px 5px;
+    text-align: center;
+    color: #fff;
+    font-size: 14px;
+    margin: 5px;
 }
 
