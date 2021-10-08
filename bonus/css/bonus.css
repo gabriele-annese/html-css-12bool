@@ -10,7 +10,11 @@ body {
 .box{
     background-color: #fff;
     height: 50px ;
-    border: 1px solid black;
+}
+
+.box2{
+    background-color: #000;
+    height: 50px ;
 }
 
 .box img {
