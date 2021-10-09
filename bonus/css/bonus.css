@@ -8,11 +8,12 @@ body {
 
 /* Utility */
 .box{
-    background-color: #fff;
     height: 80px ;
-    border: 1px solid black;
 }
 
+.box2 {
+    width: 100%;
+}
 
 .box img {
     object-fit: cover;
