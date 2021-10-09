@@ -12,7 +12,7 @@ body {
 }
 
 .box2 {
-    width: 100%;
+    width: 200px;
 }
 
 .box img {
@@ -33,4 +33,9 @@ body {
 
 .sub-title {
     color: #3dff43  ;
+}
+
+
+.border {
+    border-bottom: 5px solid #3dff43  ;
 }
