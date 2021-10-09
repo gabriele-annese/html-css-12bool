@@ -21,7 +21,6 @@ body {
     height: 100%;
 }
 
-
 .mrg-box{
     margin: 5px;
 }
@@ -30,11 +29,9 @@ body {
     margin-top: 50px;
 }
 
-
 .sub-title {
     color: #3dff43  ;
 }
-
 
 .border {
     border-bottom: 5px solid #3dff43  ;
